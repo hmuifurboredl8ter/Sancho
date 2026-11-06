@@ -101,5 +101,31 @@ Detailed execution plan and draft enhancements for immediate narrative implement
 
 ---
 
+## 4. Format Presentation & Stylistic Book Design Advice
+
+To transform both manuscripts into publication-ready, visually stunning book editions (whether distributed digitally or typeset into document packages), the following aesthetic architecture is recommended:
+
+### A. Volume 1: *The Legend of Señor Sancho Blanco: The Legend and the Lesson* (Narrative Novel)
+- **Aesthetic Tone:** Classic high-society literary fiction meets understated southern gothic.
+- **Palette:** Deep Burgundy (`#58111A`) for primary headings, Warm Amber/Old Gold (`#C5A059`) for chapter subheads and decorative rules, Charcoal (`#222222`) for body text.
+- **Typography:** Georgia or Garamond with generous line spacing (1.25–1.35x), 0.5-inch paragraph indents, and elegant small-caps for chapter openings.
+- **Visual Devices:**
+  - *Tasha Green’s Foreword:* Set in distinct italicized styling with a subtle decorative side-rule to establish her independent, objective perspective.
+  - *Elena’s Chapter 9 Letter:* Formatted as a callout block mimicking heavy cream stationery with subtle indented margins and an authentic script or monospace font.
+  - *Scene Breaks:* Centered three-diamond (`◆ ◆ ◆`) or fleur-de-lis glyphs in muted gold.
+
+### B. Volume 2: *Señor Sancho Blanco's Guide to Being the Perfect Other Guy* (Satirical Manual)
+- **Aesthetic Tone:** Premium executive seminar syllabus disguised as high-end lifestyle etiquette.
+- **Palette:** Slate Blue / Navy (`#1B365D`) for authoritative laws, Burnished Gold (`#D4AF37`) for Blanco Rules and callouts, Deep Onyx (`#111111`) for body text.
+- **Pedagogical Layout Architecture:**
+  1. **SANCHO’S LAW:** Framed in a double-bordered callout box with centered bold small-caps and gold background shading.
+  2. **THE LECTURE:** Crisp essay formatting with bold subheadings and pull quotes.
+  3. **THE CASE STUDY:** Two-tone background box depicting the hypothetical marital scenario.
+  4. **THE REALITY CHECK:** Indented warning container with warning iconography.
+  5. **THE BLANCO RULE:** Bold, bordered decree concluding each chapter.
+- **Infographics & Tables:** Clean, borderless tables contrasting *Sancho’s Ledger (Boutique Tourism)* against *Daniel’s Ledger (Domestic Mortgage)*, and decision-tree flowcharts for the Group Chat rules.
+
+---
+
 ## Conclusion
 The Señor Sancho Blanco material is witty, original, and deeply observant. It possesses a distinct, market-ready voice that balances outrageous humor with genuine emotional acuity.
